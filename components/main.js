@@ -153,8 +153,10 @@ const Main = () => {
         {/* image background  */}
         <Image
           className='object-cover blur-[8px] h-fit'
+          alt='Live Sex Cam4'
           src={`/bg.png`}
           layout='fill'
+          priority
         />
       </div>
       {/* <div>test</div> */}
